@@ -1,10 +1,10 @@
-package com.by_syk.nanoiconpack.tool;
+package com.by_syk.shareiconpack.tool;
 
 import java.io.File;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import com.by_syk.nanoiconpack.tool.util.FileUtil;
+import com.by_syk.shareiconpack.tool.util.FileUtil;
 
 public class ResChecker {
     public static void main(String[] args) {

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
   Copyright 2017 By_syk
 
   Licensed under the Apache License, Version 2.0 (the "License");
@@ -91,6 +90,7 @@
         component="ComponentInfo{com.zui.calendar/com.zui.calendar.MainActivity}"
         prefix="calendar_d" />-->
 
+    <!--    日历-->
     <item
         component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
         drawable="calendar" />
@@ -168,7 +168,92 @@
         drawable="calendar" />
 
     <item
-        component="ComponentInfo{com.by_syk.nanoiconpack.sample/com.by_syk.lib.nanoiconpack.MainActivity}"
+        component="ComponentInfo{com.by_syk.shareiconpack.sample/com.by_syk.lib.nanoiconpack.MainActivity}"
         drawable="nano_icon_pack" />
+    <!--QQ-->
+    <item
+        component="ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}"
+        drawable="mqq" />
+
+    <!-- Snapseed / Snapseed -->
+    <item
+        component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity}"
+        drawable="snapseed" />
+    <!-- 贴吧 Lite / 贴吧 Lite -->
+    <item
+        component="ComponentInfo{com.huanchengfly.tieba.post/com.huanchengfly.tieba.post.MainActivity}"
+        drawable="tieba" />
+    <!-- 支付宝 / Alipay -->
+    <item
+        component="ComponentInfo{com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin}"
+        drawable="alipay" />
+    <!-- 手机淘宝 / null -->
+    <item
+        component="ComponentInfo{com.taobao.taobao/com.taobao.tao.welcome.Welcome}"
+        drawable="taobao" />
+    <!-- 计算器 / Calculator -->
+    <item
+        component="ComponentInfo{com.oneplus.calculator/com.oneplus.calculator.Calculator}"
+        drawable="calculator" />
+
+    <!-- 微信 / WeChat -->
+    <item
+        component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}"
+        drawable="wechat" />
+    <!-- 高德地图 / Amap -->
+    <item
+        component="ComponentInfo{com.autonavi.minimap/com.autonavi.map.activity.SplashActivity}"
+        drawable="amap" />
+
+    <!-- 文件管理 / File Manager -->
+    <item
+        component="ComponentInfo{com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity}"
+        drawable="filemanager" />
+
+    <!-- 图库 / Gallery -->
+    <item
+        component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}"
+        drawable="gallery" />
+    <!-- 信息 / Messages -->
+    <item
+        component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}"
+        drawable="messages" />
+    <!-- 电话 / Phone -->
+    <item
+        component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}"
+        drawable="phone" />
+    <!-- 抖音短视频 / 抖音短视频 -->
+    <item
+        component="ComponentInfo{com.ss.android.ugc.aweme/com.ss.android.ugc.aweme.splash.SplashActivity}"
+        drawable="douyin" />
+    <!-- 和平精英 / 和平精英 -->
+    <item
+        component="ComponentInfo{com.tencent.tmgp.pubgmhd/com.epicgames.ue4.SplashActivity}"
+        drawable="hpjy" />
+    <!-- 商店 / Market -->
+    <item
+        component="ComponentInfo{com.oppo.market/com.oppo.market.activity.MainActivity}"
+        drawable="market" />
+    <!-- 翻译 / Translate -->
+    <item
+        component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}"
+        drawable="translate" />
+    <!-- 卡券 / Card Package -->
+    <item
+        component="ComponentInfo{com.oneplus.card/com.oneplus.card.entity.activity.CardlistActivity}"
+        drawable="card_package" />
+    <!-- 相机 / Camera -->
+    <item
+        component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}"
+        drawable="camera" />
+    <!-- 设置 / Settings -->
+    <item
+        component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
+        drawable="settings" />
+    <!-- 网易云音乐 / NetEase Music -->
+    <item
+        component="ComponentInfo{com.netease.cloudmusic/com.netease.cloudmusic.activity.LoadingActivity}"
+        drawable="neteasemusic" />
+
 
 </resources>

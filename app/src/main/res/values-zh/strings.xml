@@ -18,7 +18,7 @@
 <resources>
 
     <!-- App name -->
-    <string name="app_name">NanoIconPack <small>Sample</small></string>
+    <string name="app_name">ShareIconPack <small>Beta</small></string>
 
     <!-- About information -->
     <!-- Keep its summary EMPTY (NOT DELETE IT) if you don't want to show certain line. -->
@@ -32,18 +32,18 @@
          [xxx](xxx)
          -->
     <string name="preference_icons_summary_note"></string>
-    <string name="preference_icons_title_author">灵魂图匠</string>
-    <string name="preference_icons_summary_author">[@By_syk](copy:@By_syk)</string>
+    <string name="preference_icons_title_author">二次开发</string>
+    <string name="preference_icons_summary_author">[@她胸起来好美](copy:@她胸起来好美)</string>
     <string name="preference_icons_title_contact">联系作者</string>
-    <string name="preference_icons_summary_contact">[By_syk@163.com](email:By_syk@163.com)</string>
+    <string name="preference_icons_summary_contact">[783244553@qq.com](email:783244553@qq.com)</string>
     <string name="preference_icons_title_todo_1"></string>
     <string name="preference_icons_summary_todo_1"></string>
     <string name="preference_icons_title_copyright">版权所有</string>
-    <string name="preference_icons_summary_copyright">Copyright &#169; 2017 By_syk. All rights reserved.</string>
+    <string name="preference_icons_summary_copyright">图标是网络资源，如有侵权立即下架</string>
     <string name="preference_support_title_donate">通过支付宝捐赠</string>
-    <string name="preference_support_summary_donate">[By_syk@163.com](alipay:https://qr.alipay.com/aex05154fiiurupx5ai0dd1|By_syk@163.com)</string>
+    <string name="preference_support_summary_donate">[小怪兽](alipay:https://qr.alipay.com/fkx050518y6ixenupoabk99|783244553@qq.com)</string>
     <string name="preference_support_title_todo_1">通过微信捐赠</string>
-    <string name="preference_support_summary_todo_1">[By_syk](wechat:wxp://f2f02wzHCnXrB9ZoMtTkBdQXJ8w3RgM5gu3P)</string>
+    <string name="preference_support_summary_todo_1">[SilverAge](wechat:wxp://f2f0alM7sah29IFNDnL9Jy1rcYJeZBKlpOB8)</string>
     <string name="preference_support_title_sponsors">赞助者们</string>
     <string name="preference_support_summary_sponsors">[感谢捐赠支持的用户们。](usr:bysyk)</string>
     <string name="preference_app_title_app">@string/app_name</string>

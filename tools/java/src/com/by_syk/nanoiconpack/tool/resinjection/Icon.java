@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.by_syk.nanoiconpack.tool.resinjection;
+package com.by_syk.shareiconpack.tool.resinjection;
 
 import java.io.File;
 import java.util.ArrayList;

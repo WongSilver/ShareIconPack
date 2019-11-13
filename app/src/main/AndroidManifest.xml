@@ -16,7 +16,7 @@
   -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.by_syk.nanoiconpack.sample">
+    package="edu.ShareIconPack">
 
     <!--
     for android:theme=""

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
   Copyright 2017 By_syk
 
   Licensed under the Apache License, Version 2.0 (the "License");
@@ -21,36 +20,49 @@
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to collect app name list. -->
     <string-array name="icon_labels">
         <!-- A -->
+        <item>支付宝</item>
+        <item>高德地图</item>
         <!-- B -->
         <!-- C -->
         <item>日历</item>
+        <item>计算器</item>
+        <item>卡券</item>
+        <item>相机</item>
         <!-- D -->
+        <item>抖音</item>
         <!-- E -->
         <!-- F -->
+        <item>文件管理器</item>
         <!-- G -->
+        <item>图库</item>
         <!-- H -->
+        <item>和平精英</item>
         <!-- I -->
         <!-- J -->
         <!-- K -->
         <!-- L -->
         <!-- M -->
+        <item>QQ</item>
+        <item>信息</item>
+        <item>商店</item>
         <!-- N -->
-        <item>NanoIconPack (by @Childish)</item>
-        <item>NanoIconPack (by @Markuss)</item>
-        <item>NanoIconPack (by @pandecheng)</item>
-        <item>NanoIconPack (by @atony)</item>
-        <item>NanoIconPack (by @可以and不行)</item>
-        <item>NanoIconPack (by @ArchieLiu)</item>
-        <item>NanoIconPack (by @lnm011223)</item>
+        <item>网易云音乐</item>
         <!-- O -->
         <!-- P -->
+        <item>电话</item>
         <!-- Q -->
         <!-- R -->
         <!-- S -->
+        <item>Snapseed</item>
+        <item>设置</item>
         <!-- T -->
+        <item>贴吧</item>
+        <item>淘宝</item>
+        <item>翻译</item>
         <!-- U -->
         <!-- V -->
         <!-- W -->
+        <item>微信</item>
         <!-- X -->
         <!-- Y -->
         <!-- Z -->

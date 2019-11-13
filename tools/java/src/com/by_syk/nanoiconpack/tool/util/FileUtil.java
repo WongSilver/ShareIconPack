@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.by_syk.nanoiconpack.tool.util;
+package com.by_syk.shareiconpack.tool.util;
 
 import java.io.BufferedReader;
 import java.io.File;

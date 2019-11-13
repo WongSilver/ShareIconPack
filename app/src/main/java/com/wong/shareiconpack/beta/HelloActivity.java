@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.by_syk.nanoiconpack.sample;
+package com.wong.shareiconpack.beta;
 
 import android.app.Activity;
 import android.os.Bundle;

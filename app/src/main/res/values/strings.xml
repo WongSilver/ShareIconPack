@@ -18,10 +18,10 @@
 <resources>
 
     <!-- App name -->
-    <string name="app_name">NanoIconPack <small>Sample</small></string>
+    <string name="app_name">ShareIconPack <small>Beta</small></string>
 
     <!-- For Apex Launcher, means icon pack author -->
-    <string name="developer_name">By_syk</string>
+    <string name="developer_name">Wong</string>
 
     <!-- About information -->
     <!-- Keep its summary EMPTY (NOT DELETE IT) if you don't want to show certain line. -->
@@ -36,9 +36,9 @@
          -->
     <string name="preference_icons_summary_note"></string>
     <string name="preference_icons_title_author">Icon pack author</string>
-    <string name="preference_icons_summary_author">[@By_syk](copy:@By_syk)</string>
+    <string name="preference_icons_summary_author">[@Wong](copy:@Wong)</string>
     <string name="preference_icons_title_contact">Contact author</string>
-    <string name="preference_icons_summary_contact">[By_syk@163.com](email:By_syk@163.com)</string>
+    <string name="preference_icons_summary_contact">[isme.wong@gmail.com](email:isme.wong@gmail.com)</string>
     <string name="preference_icons_title_todo_1"></string>
     <string name="preference_icons_summary_todo_1"></string>
     <string name="preference_icons_title_copyright">Copyright</string>

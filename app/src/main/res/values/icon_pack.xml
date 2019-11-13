@@ -21,36 +21,49 @@
     <!-- Names like "Calendar", "500px", "camera_360" are not allowed or recommended. -->
     <string-array name="icons" translatable="false">
         <!-- A -->
+        <item>alipay</item>
+        <item>amap</item>
         <!-- B -->
         <!-- C -->
         <item>calendar</item>
+        <item>calculator</item>
+        <item>cardpackage</item>
+        <item>camera</item>
         <!-- D -->
+        <item>douyin</item>
         <!-- E -->
         <!-- F -->
+        <item>filemanager</item>
         <!-- G -->
+        <item>gallery</item>
         <!-- H -->
+        <item>hpjy</item>
         <!-- I -->
         <!-- J -->
         <!-- K -->
         <!-- L -->
         <!-- M -->
+        <item>mqq</item>
+        <item>messages</item>
+        <item>market</item>
         <!-- N -->
-        <item>nano_icon_pack</item>
-        <item>nano_icon_pack_1</item>
-        <item>nano_icon_pack_2</item>
-        <item>nano_icon_pack_3</item>
-        <item>nano_icon_pack_4</item>
-        <item>nano_icon_pack_5</item>
-        <item>nano_icon_pack_6</item>
+        <item>neteasemusic</item>
         <!-- O -->
         <!-- P -->
+        <item>phone</item>
         <!-- Q -->
         <!-- R -->
         <!-- S -->
+        <item>snapseed</item>
+        <item>settings</item>
         <!-- T -->
+        <item>tieba</item>
+        <item>taobao</item>
+        <item>translate</item>
         <!-- U -->
         <!-- V -->
         <!-- W -->
+        <item>wechat</item>
         <!-- X -->
         <!-- Y -->
         <!-- Z -->
@@ -60,36 +73,49 @@
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to collect app name list. -->
     <string-array name="icon_labels">
         <!-- A -->
+        <item>Alipay</item>
+        <item>Amap</item>
         <!-- B -->
         <!-- C -->
         <item>Calendar</item>
+        <item>Calculator</item>
+        <item>Cardpackage</item>
+        <item>Camera</item>
         <!-- D -->
+        <item>DouYin</item>
         <!-- E -->
         <!-- F -->
+        <item>FileManager</item>
         <!-- G -->
+        <item>Gallery</item>
         <!-- H -->
+        <item>和平精英</item>
         <!-- I -->
         <!-- J -->
         <!-- K -->
         <!-- L -->
         <!-- M -->
+        <item>QQ</item>
+        <item>Messages</item>
+        <item>Market</item>
         <!-- N -->
-        <item>NanoIconPack (by @Childish)</item>
-        <item>NanoIconPack (by @Markuss)</item>
-        <item>NanoIconPack (by @pandecheng)</item>
-        <item>NanoIconPack (by @atony)</item>
-        <item>NanoIconPack (by @可以and不行)</item>
-        <item>NanoIconPack (by @ArchieLiu)</item>
-        <item>NanoIconPack (by @lnm011223)</item>
+        <item>NeteaseMusic</item>
         <!-- O -->
         <!-- P -->
+        <item>Phone</item>
         <!-- Q -->
         <!-- R -->
         <!-- S -->
+        <item>Snapseed</item>
+        <item>Settings</item>
         <!-- T -->
+        <item>TieBa</item>
+        <item>Taobao</item>
+        <item>Translate</item>
         <!-- U -->
         <!-- V -->
         <!-- W -->
+        <item>WeChat</item>
         <!-- X -->
         <!-- Y -->
         <!-- Z -->
@@ -98,12 +124,6 @@
     <!-- Latest icons (Make sure it's from the "icons" array) -->
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to show additional icons of new version app. -->
     <string-array name="latest_icons" translatable="false">
-        <item>nano_icon_pack_1</item>
-        <item>nano_icon_pack_2</item>
-        <item>nano_icon_pack_3</item>
-        <item>nano_icon_pack_4</item>
-        <item>nano_icon_pack_5</item>
-        <item>nano_icon_pack_6</item>
     </string-array>
 
 </resources>

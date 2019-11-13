@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.by_syk.nanoiconpack.tool.resinjection;
+package com.by_syk.shareiconpack.tool.resinjection;
 
 import java.io.File;
 import java.util.ArrayList;
@@ -25,8 +25,8 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import com.by_syk.nanoiconpack.tool.util.FileUtil;
-import com.by_syk.nanoiconpack.tool.util.Utils;
+import com.by_syk.shareiconpack.tool.util.FileUtil;
+import com.by_syk.shareiconpack.tool.util.Utils;
 
 /**
  * TODO 对APP名含特殊符号的处理

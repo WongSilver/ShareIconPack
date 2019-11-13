@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
   Copyright 2017 By_syk
 
   Licensed under the Apache License, Version 2.0 (the "License");
@@ -34,24 +33,19 @@
     <!--<item drawable="settings" />-->
     <!--<item drawable="sms" />-->
 
-    <category title="Game" /><!-- Copy game icons here from All category -->
+    <!--    <category title="Game" />&lt;!&ndash; Copy game icons here from All category &ndash;&gt;-->
 
-    <category title="Alternative" /><!-- Copy alternative icons here from All category -->
-    <item drawable="nano_icon_pack_1" />
-    <item drawable="nano_icon_pack_2" />
-    <item drawable="nano_icon_pack_3" />
-    <item drawable="nano_icon_pack_4" />
-    <item drawable="nano_icon_pack_5" />
-    <item drawable="nano_icon_pack_6" />
+    <!--    <category title="Alternative" />&lt;!&ndash; Copy alternative icons here from All category &ndash;&gt;-->
 
     <category title="All(8)" /><!-- All icons here -->
+    <item drawable="alipay" />
     <item drawable="calendar" />
-    <item drawable="nano_icon_pack" />
-    <item drawable="nano_icon_pack_1" />
-    <item drawable="nano_icon_pack_2" />
-    <item drawable="nano_icon_pack_3" />
-    <item drawable="nano_icon_pack_4" />
-    <item drawable="nano_icon_pack_5" />
-    <item drawable="nano_icon_pack_6" />
+
+    <item drawable="maps" />
+    <item drawable="mqq" />
+    <item drawable="tieba" />
+    <item drawable="snapseed" />
+    <item drawable="taobao" />
+    <item drawable="wechat" />
 
 </resources>

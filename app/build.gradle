@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion Integer.parseInt(project.COMPILE_SDK_VERSION)
-    buildToolsVersion project.BUILD_TOOLS_VERSION
+    buildToolsVersion '28.0.3'
 
     defaultConfig {
         // Package name format: com.[your_name].iconpack.[name_of_your_icon_pack]
@@ -11,7 +11,7 @@ android {
         targetSdkVersion Integer.parseInt(project.TARGET_SDK_VERSION)
         versionCode 17103000
         // Version name format: [version].[num_of_icons]
-        versionName "3.3.0.8.nightly"
+        versionName "0.0.1Beta"
 
         resConfigs "en", "zh_cn"
     }
@@ -24,16 +24,21 @@ android {
 
             // For formatting apk file name, like com.by_syk.template_v1.0.0(17012500).apk
             android.applicationVariants.all { variant ->
-                variant.outputs.all { output ->
-                    def outputFile = output.outputFile
-                    if (outputFile != null) {
-                        def fileName = "${defaultConfig.applicationId}_v${defaultConfig.versionName}(${defaultConfig.versionCode}).apk"
-                        outputFileName = fileName
-                    }
+//                variant.outputs.all { output ->
+//                    def outputFile = output.outputFile
+//                    if (outputFile != null) {
+//                        def fileName = "${defaultConfig.applicationId}_v${defaultConfig.versionName}(${defaultConfig.versionCode}).apk"
+//                        outputFileName = fileName
+//                    }
+//                }
+                // 更新至Android Studio 3.3 gradle 4.10.1
+                variant.outputs.all {
+                    outputFileName = "ShareIconPack.apk"
                 }
             }
         }
     }
+
 
     lintOptions {
         disable 'MissingTranslation'
@@ -45,9 +50,9 @@ android {
 }*/
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
 
-    testCompile 'junit:junit:4.12'
+    implementation 'junit:junit:4.12'
 
-    compile project(':nanoiconpack')
+    implementation project(':nanoiconpack')
 }

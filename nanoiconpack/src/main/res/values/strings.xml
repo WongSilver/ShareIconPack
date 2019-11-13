@@ -17,7 +17,7 @@
 
 <resources>
 
-    <string name="app_name">NanoIconPack</string>
+    <string name="app_name" translatable="false">ShareIconPack</string>
 
     <string name="activity_about">About</string>
     <string name="activity_req_stats">Request stats</string>

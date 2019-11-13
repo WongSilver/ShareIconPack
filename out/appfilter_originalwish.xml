@@ -2829,7 +2829,7 @@
         component="ComponentInfo{com.atony.iconpack.originalwish/com.by_syk.lib.nanoiconpack.MainActivity}"
         drawable="original_wish" />
     <item
-        component="ComponentInfo{com.atony.iconpack.originalwish/com.by_syk.nanoiconpack.sample.MainActivity}"
+        component="ComponentInfo{com.atony.iconpack.originalwish/com.by_syk.shareiconpack.beta.MainActivity}"
         drawable="original_wish" />
 
     <item
@@ -2844,7 +2844,7 @@
         component="ComponentInfo{com.pandecheng.iconpack/com.by_syk.lib.nanoiconpack.MainActivity}"
         drawable="pdc" />
     <item
-        component="ComponentInfo{com.pandecheng.iconpack/com.by_syk.nanoiconpack.sample.MainActivity}"
+        component="ComponentInfo{com.pandecheng.iconpack/com.by_syk.shareiconpack.beta.MainActivity}"
         drawable="pdc" />
 
     <item
