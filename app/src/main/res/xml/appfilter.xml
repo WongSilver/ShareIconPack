@@ -170,10 +170,16 @@
     <item
         component="ComponentInfo{com.by_syk.shareiconpack.sample/com.by_syk.lib.nanoiconpack.MainActivity}"
         drawable="nano_icon_pack" />
-    <!--QQ-->
+
+    <!-- QQ / QQ -->
     <item
         component="ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}"
-        drawable="mqq" />
+        drawable="qq" />
+
+    <!-- TIM / TIM -->
+    <item
+        component="ComponentInfo{com.tencent.tim/com.tencent.mobileqq.activity.SplashActivity}"
+        drawable="tim" />
 
     <!-- Snapseed / Snapseed -->
     <item
@@ -214,46 +220,76 @@
     <item
         component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}"
         drawable="gallery" />
+
     <!-- 信息 / Messages -->
     <item
         component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}"
         drawable="messages" />
+
     <!-- 电话 / Phone -->
     <item
         component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}"
         drawable="phone" />
+
     <!-- 抖音短视频 / 抖音短视频 -->
     <item
         component="ComponentInfo{com.ss.android.ugc.aweme/com.ss.android.ugc.aweme.splash.SplashActivity}"
         drawable="douyin" />
+
     <!-- 和平精英 / 和平精英 -->
     <item
         component="ComponentInfo{com.tencent.tmgp.pubgmhd/com.epicgames.ue4.SplashActivity}"
         drawable="hpjy" />
+
     <!-- 商店 / Market -->
     <item
         component="ComponentInfo{com.oppo.market/com.oppo.market.activity.MainActivity}"
         drawable="market" />
+
     <!-- 翻译 / Translate -->
     <item
         component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}"
         drawable="translate" />
+
     <!-- 卡券 / Card Package -->
     <item
         component="ComponentInfo{com.oneplus.card/com.oneplus.card.entity.activity.CardlistActivity}"
-        drawable="card_package" />
+        drawable="cardpackage" />
+
     <!-- 相机 / Camera -->
     <item
         component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}"
         drawable="camera" />
+
     <!-- 设置 / Settings -->
     <item
         component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
         drawable="settings" />
+
     <!-- 网易云音乐 / NetEase Music -->
     <item
         component="ComponentInfo{com.netease.cloudmusic/com.netease.cloudmusic.activity.LoadingActivity}"
         drawable="neteasemusic" />
+
+    <!-- Termux / Termux -->
+    <item
+        component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}"
+        drawable="termux" />
+
+    <!-- 酷安 / CoolApk -->
+    <item
+        component="ComponentInfo{com.coolapk.market/com.coolapk.market.view.main.MainActivity}"
+        drawable="coolapk" />
+
+    <!-- 哔哩哔哩 / bilibili -->
+    <item
+        component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.MainActivityV2}"
+        drawable="bilibili" />
+
+    <!-- SSRR / SSRR -->
+    <item
+        component="ComponentInfo{in.zhaoj.shadowsocksrr/com.github.shadowsocks.Shadowsocks}"
+        drawable="ssrr" />
 
 
 </resources>

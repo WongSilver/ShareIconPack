@@ -24,11 +24,13 @@
         <item>alipay</item>
         <item>amap</item>
         <!-- B -->
+        <item>bilibili</item>
         <!-- C -->
         <item>calendar</item>
         <item>calculator</item>
         <item>cardpackage</item>
         <item>camera</item>
+        <item>coolapk</item>
         <!-- D -->
         <item>douyin</item>
         <!-- E -->
@@ -43,7 +45,7 @@
         <!-- K -->
         <!-- L -->
         <!-- M -->
-        <item>mqq</item>
+        <item>qq</item>
         <item>messages</item>
         <item>market</item>
         <!-- N -->
@@ -56,10 +58,13 @@
         <!-- S -->
         <item>snapseed</item>
         <item>settings</item>
+        <item>ssrr</item>
         <!-- T -->
         <item>tieba</item>
         <item>taobao</item>
         <item>translate</item>
+        <item>tim</item>
+        <item>termux</item>
         <!-- U -->
         <!-- V -->
         <!-- W -->
@@ -76,11 +81,13 @@
         <item>Alipay</item>
         <item>Amap</item>
         <!-- B -->
+        <item>Bilibili</item>
         <!-- C -->
         <item>Calendar</item>
         <item>Calculator</item>
-        <item>Cardpackage</item>
+        <item>CardPackage</item>
         <item>Camera</item>
+        <item>CoolApk</item>
         <!-- D -->
         <item>DouYin</item>
         <!-- E -->
@@ -108,10 +115,13 @@
         <!-- S -->
         <item>Snapseed</item>
         <item>Settings</item>
+        <item>SSRR</item>
         <!-- T -->
         <item>TieBa</item>
         <item>Taobao</item>
         <item>Translate</item>
+        <item>TIM</item>
+        <item>Termux</item>
         <!-- U -->
         <!-- V -->
         <!-- W -->

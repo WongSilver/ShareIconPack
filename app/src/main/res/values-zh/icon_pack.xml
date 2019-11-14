@@ -23,11 +23,13 @@
         <item>支付宝</item>
         <item>高德地图</item>
         <!-- B -->
+        <item>Bilibili</item>
         <!-- C -->
         <item>日历</item>
         <item>计算器</item>
         <item>卡券</item>
         <item>相机</item>
+        <item>酷安</item>
         <!-- D -->
         <item>抖音</item>
         <!-- E -->
@@ -55,10 +57,13 @@
         <!-- S -->
         <item>Snapseed</item>
         <item>设置</item>
+        <item>SSRR</item>
         <!-- T -->
         <item>贴吧</item>
         <item>淘宝</item>
         <item>翻译</item>
+        <item>TIM</item>
+        <item>Termux</item>
         <!-- U -->
         <!-- V -->
         <!-- W -->
