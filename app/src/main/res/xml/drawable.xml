@@ -37,15 +37,48 @@
 
     <!--    <category title="Alternative" />&lt;!&ndash; Copy alternative icons here from All category &ndash;&gt;-->
 
-    <category title="All(8)" /><!-- All icons here -->
-    <item drawable="alipay" />
-    <item drawable="calendar" />
+    <category title="All" /><!-- All icons here -->
 
-    <item drawable="maps" />
-    <item drawable="mqq" />
-    <item drawable="tieba" />
+    <item drawable="alipay" />
+    <item drawable="amap" />
+    <item drawable="bilibili" />
+    <item drawable="baidumap" />
+    <item drawable="baidunetdisk" />
+    <item drawable="calendar" />
+    <item drawable="calculator" />
+    <item drawable="cardpackage" />
+    <item drawable="camera" />
+    <item drawable="coolapk" />
+    <item drawable="chrome" />
+    <item drawable="me_ele" />
+    <item drawable="douyin" />
+    <item drawable="filemanager" />
+    <item drawable="gallery" />
+    <item drawable="hpjy" />
+    <item drawable="jd" />
+    <item drawable="keep" />
+    <item drawable="messages" />
+    <item drawable="market" />
+    <item drawable="neteasemusic" />
+    <item drawable="notes" />
+    <item drawable="phone" />
+    <item drawable="qq" />
+    <item drawable="quark" />
+    <item drawable="qqmusic" />
     <item drawable="snapseed" />
+    <item drawable="settings" />
+    <item drawable="ssrr" />
+    <item drawable="tieba" />
     <item drawable="taobao" />
+    <item drawable="translate" />
+    <item drawable="tim" />
+    <item drawable="termux" />
+    <item drawable="telegram" />
+    <item drawable="telegram_1" />
     <item drawable="wechat" />
+    <item drawable="weibo" />
+    <item drawable="weiyun" />
+    <item drawable="xunlei" />
+    <item drawable="zhihu" />
 
 </resources>

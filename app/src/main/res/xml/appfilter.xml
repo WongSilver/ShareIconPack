@@ -212,8 +212,12 @@
         drawable="amap" />
 
     <!-- 文件管理 / File Manager -->
+    <!-- 一加 / 华为 -->
     <item
         component="ComponentInfo{com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity}"
+        drawable="filemanager" />
+    <item
+        component="ComponentInfo{com.huawei.hidisk/com.huawei.hidisk.filemanager.FileManager}"
         drawable="filemanager" />
 
     <!-- 图库 / Gallery -->
@@ -224,6 +228,9 @@
     <!-- 信息 / Messages -->
     <item
         component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}"
+        drawable="messages" />
+    <item
+        component="ComponentInfo{com.oneplus.mms/com.android.mms.ui.ConversationList}"
         drawable="messages" />
 
     <!-- 电话 / Phone -->
@@ -290,6 +297,86 @@
     <item
         component="ComponentInfo{in.zhaoj.shadowsocksrr/com.github.shadowsocks.Shadowsocks}"
         drawable="ssrr" />
+
+    <!-- 知乎 / zhihu -->
+    <item
+        component="ComponentInfo{com.zhihu.android/com.zhihu.android.app.ui.activity.MainActivity}"
+        drawable="zhihu" />
+
+    <!-- 便签 / Notes -->
+    <item
+        component="ComponentInfo{com.oneplus.note/com.oneplus.note.ui.MainActivity}"
+        drawable="notes" />
+
+    <!-- Telegram / Telegram -->
+    <item
+        component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}"
+        drawable="telegram" />
+
+    <!-- 夸克 / Quark Browser -->
+    <item
+        component="ComponentInfo{com.quark.browser/com.ucpro.MainActivity}"
+        drawable="quark" />
+
+    <!-- 百度地图 / 百度地图 -->
+    <item
+        component="ComponentInfo{com.baidu.BaiduMap/com.baidu.baidumaps.WelcomeScreen}"
+        drawable="baidumap" />
+
+    <!-- 百度网盘 / 百度网盘 -->
+    <item
+        component="ComponentInfo{com.baidu.netdisk/com.baidu.netdisk.ui.Navigate}"
+        drawable="baidunetdisk" />
+
+    <!-- 京东 / 京东 -->
+    <item
+        component="ComponentInfo{com.jingdong.app.mall/com.jingdong.app.mall.main.MainActivity}"
+        drawable="jd" />
+
+    <!-- 微博 / Weibo -->
+    <item
+        component="ComponentInfo{com.sina.weibo/com.sina.weibo.SplashActivity}"
+        drawable="weibo" />
+
+    <!-- Chrome / Chrome -->
+    <item
+        component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}"
+        drawable="chrome" />
+
+    <!-- 腾讯微云 / Tencent Drive -->
+    <item
+        component="ComponentInfo{com.qq.qcloud/com.qq.qcloud.activity.WeiyunRootActivity}"
+        drawable="weiyun" />
+
+    <!-- Keep / Keep -->
+    <item
+        component="ComponentInfo{com.gotokeep.keep/com.gotokeep.keep.splash.SplashActivity}"
+        drawable="keep" />
+
+    <!-- 饿了么 / me.ele -->
+    <item
+        component="ComponentInfo{me.ele/me.ele.Launcher}"
+        drawable="me_ele" />
+
+    <!-- QQ音乐 / QQMusic -->
+    <item
+        component="ComponentInfo{com.tencent.qqmusic/com.tencent.qqmusic.activity.AppStarterActivity}"
+        drawable="qqmusic" />
+
+    <!-- AcFun / AcFun -->
+    <!--    <item-->
+    <!--        component="ComponentInfo{tv.acfundanmaku.video/tv.acfun.core.module.splash.SplashActivity}"-->
+    <!--        drawable="ac_fun" />-->
+
+    <!-- 崩坏3 / 崩坏3 -->
+    <!--    <item-->
+    <!--        component="ComponentInfo{com.miHoYo.bh3.nearme.gamecenter/com.miHoYo.bh3.nearme.gamecenter.OppoSDKUtils}"-->
+    <!--        drawable="" />-->
+
+    <!-- 迅雷 / 迅雷 -->
+    <item
+        component="ComponentInfo{com.xunlei.downloadprovider/com.xunlei.downloadprovider.launch.LaunchActivity}"
+        drawable="xunlei" />
 
 
 </resources>

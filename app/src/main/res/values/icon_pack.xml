@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
   Copyright 2017 By_syk
 
   Licensed under the Apache License, Version 2.0 (the "License");
@@ -25,15 +24,19 @@
         <item>amap</item>
         <!-- B -->
         <item>bilibili</item>
+        <item>baidumap</item>
+        <item>baidunetdisk</item>
         <!-- C -->
         <item>calendar</item>
         <item>calculator</item>
         <item>cardpackage</item>
         <item>camera</item>
         <item>coolapk</item>
+        <item>chrome</item>
         <!-- D -->
         <item>douyin</item>
         <!-- E -->
+        <item>me_ele</item>
         <!-- F -->
         <item>filemanager</item>
         <!-- G -->
@@ -42,18 +45,23 @@
         <item>hpjy</item>
         <!-- I -->
         <!-- J -->
+        <item>jd</item>
         <!-- K -->
+        <item>keep</item>
         <!-- L -->
         <!-- M -->
-        <item>qq</item>
         <item>messages</item>
         <item>market</item>
         <!-- N -->
         <item>neteasemusic</item>
+        <item>notes</item>
         <!-- O -->
         <!-- P -->
         <item>phone</item>
         <!-- Q -->
+        <item>qq</item>
+        <item>quark</item>
+        <item>qqmsic</item>
         <!-- R -->
         <!-- S -->
         <item>snapseed</item>
@@ -65,13 +73,19 @@
         <item>translate</item>
         <item>tim</item>
         <item>termux</item>
+        <item>telegram</item>
+        <!--<item>telegram_1</item>-->
         <!-- U -->
         <!-- V -->
         <!-- W -->
         <item>wechat</item>
+        <item>weibo</item>
+        <item>weiyun</item>
         <!-- X -->
+        <item>xunlei</item>
         <!-- Y -->
         <!-- Z -->
+        <item>zhihu</item>
     </string-array>
 
     <!-- Corresponding app name list of all icons in /res/drawable-nodpi/ -->
@@ -82,15 +96,19 @@
         <item>Amap</item>
         <!-- B -->
         <item>Bilibili</item>
+        <item>BaiduMap</item>
+        <item>BaiduNetDisk</item>
         <!-- C -->
         <item>Calendar</item>
         <item>Calculator</item>
         <item>CardPackage</item>
         <item>Camera</item>
         <item>CoolApk</item>
+        <item>Chrome</item>
         <!-- D -->
         <item>DouYin</item>
         <!-- E -->
+        <item>饿了么</item>
         <!-- F -->
         <item>FileManager</item>
         <!-- G -->
@@ -99,18 +117,23 @@
         <item>和平精英</item>
         <!-- I -->
         <!-- J -->
+        <item>京东</item>
         <!-- K -->
+        <item>Keep</item>
         <!-- L -->
         <!-- M -->
-        <item>QQ</item>
         <item>Messages</item>
         <item>Market</item>
         <!-- N -->
         <item>NeteaseMusic</item>
+        <item>Notes</item>
         <!-- O -->
         <!-- P -->
         <item>Phone</item>
         <!-- Q -->
+        <item>QQ</item>
+        <item>Quark</item>
+        <item>QQMusic</item>
         <!-- R -->
         <!-- S -->
         <item>Snapseed</item>
@@ -122,18 +145,22 @@
         <item>Translate</item>
         <item>TIM</item>
         <item>Termux</item>
+        <item>Telegram</item>
         <!-- U -->
         <!-- V -->
         <!-- W -->
         <item>WeChat</item>
+        <item>WeiBo</item>
+        <item>WeiYun</item>
         <!-- X -->
+        <item>迅雷</item>
         <!-- Y -->
         <!-- Z -->
+        <item>ZhiHu</item>
     </string-array>
 
     <!-- Latest icons (Make sure it's from the "icons" array) -->
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to show additional icons of new version app. -->
-    <string-array name="latest_icons" translatable="false">
-    </string-array>
+    <string-array name="latest_icons" translatable="false"></string-array>
 
 </resources>

@@ -23,16 +23,20 @@
         <item>支付宝</item>
         <item>高德地图</item>
         <!-- B -->
-        <item>Bilibili</item>
+        <item>哔哩哔哩</item>
+        <item>百度地图</item>
+        <item>百度网盘</item>
         <!-- C -->
         <item>日历</item>
         <item>计算器</item>
         <item>卡券</item>
         <item>相机</item>
         <item>酷安</item>
+        <item>Chrome</item>
         <!-- D -->
         <item>抖音</item>
         <!-- E -->
+        <item>饿了么</item>
         <!-- F -->
         <item>文件管理器</item>
         <!-- G -->
@@ -41,18 +45,23 @@
         <item>和平精英</item>
         <!-- I -->
         <!-- J -->
+        <item>京东</item>
         <!-- K -->
+        <item>Keep</item>
         <!-- L -->
         <!-- M -->
-        <item>QQ</item>
         <item>信息</item>
         <item>商店</item>
         <!-- N -->
         <item>网易云音乐</item>
+        <item>便签</item>
         <!-- O -->
         <!-- P -->
         <item>电话</item>
         <!-- Q -->
+        <item>QQ</item>
+        <item>夸克</item>
+        <item>QQ音乐</item>
         <!-- R -->
         <!-- S -->
         <item>Snapseed</item>
@@ -64,13 +73,18 @@
         <item>翻译</item>
         <item>TIM</item>
         <item>Termux</item>
+        <item>Telegram</item>
         <!-- U -->
         <!-- V -->
         <!-- W -->
         <item>微信</item>
+        <item>微博</item>
+        <item>微云</item>
         <!-- X -->
+        <item>迅雷</item>
         <!-- Y -->
         <!-- Z -->
+        <item>知乎</item>
     </string-array>
 
 </resources>

@@ -44,12 +44,12 @@
     <string name="preference_icons_title_copyright">Copyright</string>
     <string name="preference_icons_summary_copyright">Copyright &#169; 2017 By_syk. All rights reserved.</string>
     <string name="preference_support_title_donate">Donate via Alipay</string>
-    <string name="preference_support_summary_donate">[By_syk@163.com](alipay:https://qr.alipay.com/aex05154fiiurupx5ai0dd1|By_syk@163.com)</string>
+    <string name="preference_support_summary_donate">[小怪兽](alipay:https://qr.alipay.com/fkx050518y6ixenupoabk99|783244553@qq.com)</string>
     <string name="preference_support_title_todo_1">Donate via WeChat</string>
-    <string name="preference_support_summary_todo_1">[By_syk](wechat:wxp://f2f02wzHCnXrB9ZoMtTkBdQXJ8w3RgM5gu3P)</string>
+    <string name="preference_support_summary_todo_1">[SilverAge](wechat:wxp://f2f0alM7sah29IFNDnL9Jy1rcYJeZBKlpOB8)</string>
     <string name="preference_support_title_sponsors">Sponsors</string>
     <!-- What's "[xxx](usr:xxx)"? Visit http://nano.by-syk.com/page/donate to set it, and take care of it. -->
-    <string name="preference_support_summary_sponsors">[Thank for donating.](usr:bysyk)</string>
+    <string name="preference_support_summary_sponsors">[Thank for donating.](usr:她胸起来好美)</string>
     <string name="preference_app_title_app">@string/app_name</string>
     <string name="preference_app_summary_app">v%1$s (%2$d)</string>
     <string name="preference_app_title_todo_1"></string>

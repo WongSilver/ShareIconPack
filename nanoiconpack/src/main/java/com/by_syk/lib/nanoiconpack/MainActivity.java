@@ -80,7 +80,8 @@ public class MainActivity extends AppCompatActivity
         viewPager.setAdapter(new IconsPagerAdapter(getSupportFragmentManager()));
         viewPager.addOnPageChangeListener(new ViewPager.OnPageChangeListener() {
             @Override
-            public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {}
+            public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
+            }
 
             @Override
             public void onPageSelected(int position) {
@@ -90,7 +91,8 @@ public class MainActivity extends AppCompatActivity
             }
 
             @Override
-            public void onPageScrollStateChanged(int state) {}
+            public void onPageScrollStateChanged(int state) {
+            }
         });
 
         bottomNavigationView.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
@@ -112,7 +114,8 @@ public class MainActivity extends AppCompatActivity
                 }
                 if (id == R.id.nav_lost) {
                     if (System.currentTimeMillis() - lastTapTime < 400) {
-                        enterConsole();
+//                        双击事件
+//                        enterConsole();
                         lastTapTime = 0;
                     } else {
                         lastTapTime = System.currentTimeMillis();
