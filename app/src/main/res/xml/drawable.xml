@@ -81,4 +81,15 @@
     <item drawable="xunlei" />
     <item drawable="zhihu" />
 
+    <item drawable="suning" />
+    <item drawable="redbook" />
+    <item drawable="steam" />
+    <item drawable="jg12123" />
+    <item drawable="quna" />
+    <item drawable="camera_360" />
+    <item drawable="xcf" />
+    <item drawable="dianping" />
+    <item drawable="yh_zg" />
+    <item drawable="yh_gs" />
+
 </resources>
