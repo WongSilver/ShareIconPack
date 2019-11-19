@@ -33,6 +33,7 @@
         <item>相机</item>
         <item>酷安</item>
         <item>Chrome</item>
+        <item>360相机</item>
         <!-- D -->
         <item>抖音</item>
         <!-- E -->
@@ -46,6 +47,7 @@
         <!-- I -->
         <!-- J -->
         <item>京东</item>
+        <item>交管12123</item>
         <!-- K -->
         <item>Keep</item>
         <!-- L -->
@@ -62,11 +64,16 @@
         <item>QQ</item>
         <item>夸克</item>
         <item>QQ音乐</item>
+        <item>去哪旅行</item>
+        <item>大众点评</item>
         <!-- R -->
+        <item>小红书</item>
         <!-- S -->
         <item>Snapseed</item>
         <item>设置</item>
         <item>SSRR</item>
+        <item>苏宁</item>
+        <item>Steam</item>
         <!-- T -->
         <item>贴吧</item>
         <item>淘宝</item>
@@ -82,7 +89,10 @@
         <item>微云</item>
         <!-- X -->
         <item>迅雷</item>
+        <item>下厨房</item>
         <!-- Y -->
+        <item>中国工商银行</item>
+        <item>中国银行</item>
         <!-- Z -->
         <item>知乎</item>
     </string-array>

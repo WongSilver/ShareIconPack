@@ -33,6 +33,7 @@
         <item>camera</item>
         <item>coolapk</item>
         <item>chrome</item>
+        <item>camera_360</item>
         <!-- D -->
         <item>douyin</item>
         <!-- E -->
@@ -46,6 +47,7 @@
         <!-- I -->
         <!-- J -->
         <item>jd</item>
+        <item>jg12123</item>
         <!-- K -->
         <item>keep</item>
         <!-- L -->
@@ -61,12 +63,17 @@
         <!-- Q -->
         <item>qq</item>
         <item>quark</item>
-        <item>qqmsic</item>
+        <item>qqmusic</item>
+        <item>quna</item>
+        <item>dianping</item>
         <!-- R -->
+        <item>redbook</item>
         <!-- S -->
         <item>snapseed</item>
         <item>settings</item>
         <item>ssrr</item>
+        <item>suning</item>
+        <item>steam</item>
         <!-- T -->
         <item>tieba</item>
         <item>taobao</item>
@@ -83,7 +90,10 @@
         <item>weiyun</item>
         <!-- X -->
         <item>xunlei</item>
+        <item>xcf</item>
         <!-- Y -->
+        <item>yh_gs</item>
+        <item>yh_zg</item>
         <!-- Z -->
         <item>zhihu</item>
     </string-array>
@@ -105,6 +115,7 @@
         <item>Camera</item>
         <item>CoolApk</item>
         <item>Chrome</item>
+        <item>360相机</item>
         <!-- D -->
         <item>DouYin</item>
         <!-- E -->
@@ -118,6 +129,7 @@
         <!-- I -->
         <!-- J -->
         <item>京东</item>
+        <item>交管12123</item>
         <!-- K -->
         <item>Keep</item>
         <!-- L -->
@@ -134,11 +146,16 @@
         <item>QQ</item>
         <item>Quark</item>
         <item>QQMusic</item>
+        <item>Qunar</item>
+        <item>大众点评</item>
         <!-- R -->
+        <item>RedBook</item>
         <!-- S -->
         <item>Snapseed</item>
         <item>Settings</item>
         <item>SSRR</item>
+        <item>Suning</item>
+        <item>Steam</item>
         <!-- T -->
         <item>TieBa</item>
         <item>Taobao</item>
@@ -154,7 +171,10 @@
         <item>WeiYun</item>
         <!-- X -->
         <item>迅雷</item>
+        <item>下厨房</item>
         <!-- Y -->
+        <item>中国工商银行</item>
+        <item>中国银行</item>
         <!-- Z -->
         <item>ZhiHu</item>
     </string-array>

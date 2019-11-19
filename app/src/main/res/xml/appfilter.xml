@@ -377,6 +377,48 @@
     <item
         component="ComponentInfo{com.xunlei.downloadprovider/com.xunlei.downloadprovider.launch.LaunchActivity}"
         drawable="xunlei" />
+    <!-- 苏宁易购 / 苏宁易购 -->
+    <item
+        component="ComponentInfo{com.suning.mobile.ebuy/com.suning.mobile.ebuy.host.InitialActivity}"
+        drawable="suning" />
+    <!-- 小红书 / RED -->
+    <item
+        component="ComponentInfo{com.xingin.xhs/com.xingin.xhs.activity.SplashActivity}"
+        drawable="redbook" />
+    <!-- Steam / Steam -->
+    <item
+        component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}"
+        drawable="steam" />
+    <!-- 交管12123 / 交管12123 -->
+    <item
+        component="ComponentInfo{com.tmri.app.main/com.tmri.app.ui.activity.main.TmriNewActivity}"
+        drawable="jg12123" />
+    <!-- 去哪儿旅行 / Qunar Travel -->
+    <item
+        component="ComponentInfo{com.Qunar/com.mqunar.splash.SplashActivity}"
+        drawable="quna" />
+    <!-- 相机360 / Camera360 -->
+    <item
+        component="ComponentInfo{vStudio.Android.Camera360/vStudio.Android.Camera360.activity.CameraActivity}"
+        drawable="camera_360" />
 
+    <!-- 下厨房 / 下厨房 -->
+    <item
+        component="ComponentInfo{com.xiachufang/com.xiachufang.startpage.ui.StartPageActivity}"
+        drawable="xcf" />
 
+    <!-- 大众点评 / Dianping -->
+    <item
+        component="ComponentInfo{com.dianping.v1/com.dianping.main.guide.LaunchActivity}"
+        drawable="dianping" />
+
+    <!-- 中国工商银行 / null -->
+    <item
+        component="ComponentInfo{com.icbc/com.icbc.activity.init.LoadingActivity}"
+        drawable="yh_zg" />
+
+    <!-- 中国银行 / 中国银行 -->
+    <item
+        component="ComponentInfo{com.chinamworld.bocmbci/com.boc.bocsoft.mobile.bocmobile.buss.system.splash.SplashActivity}"
+        drawable="yh_gs" />
 </resources>
