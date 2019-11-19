@@ -9,9 +9,9 @@ android {
         applicationId "com.wong.shareiconpack"
         minSdkVersion Integer.parseInt(project.MIN_SDK_VERSION)
         targetSdkVersion Integer.parseInt(project.TARGET_SDK_VERSION)
-        versionCode 17103000
+        versionCode 19111900
         // Version name format: [version].[num_of_icons]
-        versionName "0.0.1Beta"
+        versionName "0.0.2 Beta"
 
         resConfigs "en", "zh_cn"
     }
