@@ -34,6 +34,7 @@
         <item>coolapk</item>
         <item>chrome</item>
         <item>camera_360</item>
+        <item>cainiao</item>
         <!-- D -->
         <item>douyin</item>
         <!-- E -->
@@ -45,6 +46,7 @@
         <!-- H -->
         <item>hpjy</item>
         <!-- I -->
+        <item>iqiyi</item>
         <!-- J -->
         <item>jd</item>
         <item>jg12123</item>
@@ -58,14 +60,18 @@
         <item>neteasemusic</item>
         <item>notes</item>
         <!-- O -->
+        <item>opbbs</item>
         <!-- P -->
         <item>phone</item>
+        <item>pdd</item>
         <!-- Q -->
         <item>qq</item>
         <item>quark</item>
         <item>qqmusic</item>
         <item>quna</item>
         <item>dianping</item>
+        <item>qj</item>
+        <item>qqmail</item>
         <!-- R -->
         <item>redbook</item>
         <!-- S -->
@@ -74,6 +80,7 @@
         <item>ssrr</item>
         <item>suning</item>
         <item>steam</item>
+        <item>sdclear</item>
         <!-- T -->
         <item>tieba</item>
         <item>taobao</item>
@@ -81,13 +88,16 @@
         <item>tim</item>
         <item>termux</item>
         <item>telegram</item>
+        <item>toutiao</item>
         <!--<item>telegram_1</item>-->
         <!-- U -->
         <!-- V -->
+        <item>vlc</item>
         <!-- W -->
         <item>wechat</item>
         <item>weibo</item>
         <item>weiyun</item>
+        <item>wifi</item>
         <!-- X -->
         <item>xunlei</item>
         <item>xcf</item>
@@ -116,6 +126,7 @@
         <item>CoolApk</item>
         <item>Chrome</item>
         <item>360相机</item>
+        <item>菜鸟裹裹</item>
         <!-- D -->
         <item>DouYin</item>
         <!-- E -->
@@ -127,6 +138,7 @@
         <!-- H -->
         <item>和平精英</item>
         <!-- I -->
+        <item>爱奇艺</item>
         <!-- J -->
         <item>京东</item>
         <item>交管12123</item>
@@ -140,14 +152,18 @@
         <item>NeteaseMusic</item>
         <item>Notes</item>
         <!-- O -->
+        <item>OnePlus BBS</item>
         <!-- P -->
         <item>Phone</item>
+        <item>拼多多</item>
         <!-- Q -->
         <item>QQ</item>
         <item>Quark</item>
         <item>QQMusic</item>
         <item>Qunar</item>
         <item>大众点评</item>
+        <item>钱迹</item>
+        <item>QQMail</item>
         <!-- R -->
         <item>RedBook</item>
         <!-- S -->
@@ -156,6 +172,7 @@
         <item>SSRR</item>
         <item>Suning</item>
         <item>Steam</item>
+        <item>SD Clear</item>
         <!-- T -->
         <item>TieBa</item>
         <item>Taobao</item>
@@ -163,12 +180,15 @@
         <item>TIM</item>
         <item>Termux</item>
         <item>Telegram</item>
+        <item>TouTiao</item>
         <!-- U -->
         <!-- V -->
+        <item>vlc</item>
         <!-- W -->
         <item>WeChat</item>
         <item>WeiBo</item>
         <item>WeiYun</item>
+        <item>WIFI Key</item>
         <!-- X -->
         <item>迅雷</item>
         <item>下厨房</item>

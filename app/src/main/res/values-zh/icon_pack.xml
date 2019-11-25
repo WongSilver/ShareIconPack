@@ -34,6 +34,7 @@
         <item>酷安</item>
         <item>Chrome</item>
         <item>360相机</item>
+        <item>菜鸟裹裹</item>
         <!-- D -->
         <item>抖音</item>
         <!-- E -->
@@ -45,6 +46,7 @@
         <!-- H -->
         <item>和平精英</item>
         <!-- I -->
+        <item>爱奇艺</item>
         <!-- J -->
         <item>京东</item>
         <item>交管12123</item>
@@ -58,14 +60,18 @@
         <item>网易云音乐</item>
         <item>便签</item>
         <!-- O -->
+        <item>一加社区</item>
         <!-- P -->
         <item>电话</item>
+        <item>拼多多</item>
         <!-- Q -->
         <item>QQ</item>
         <item>夸克</item>
         <item>QQ音乐</item>
         <item>去哪旅行</item>
         <item>大众点评</item>
+        <item>钱迹</item>
+        <item>QQ邮箱</item>
         <!-- R -->
         <item>小红书</item>
         <!-- S -->
@@ -74,6 +80,7 @@
         <item>SSRR</item>
         <item>苏宁</item>
         <item>Steam</item>
+        <item>存储空间清理</item>
         <!-- T -->
         <item>贴吧</item>
         <item>淘宝</item>
@@ -81,12 +88,15 @@
         <item>TIM</item>
         <item>Termux</item>
         <item>Telegram</item>
+        <item>今日头条</item>
         <!-- U -->
         <!-- V -->
+        <item>vlc</item>
         <!-- W -->
         <item>微信</item>
         <item>微博</item>
         <item>微云</item>
+        <item>WIFI万能钥匙</item>
         <!-- X -->
         <item>迅雷</item>
         <item>下厨房</item>

@@ -421,4 +421,50 @@
     <item
         component="ComponentInfo{com.chinamworld.bocmbci/com.boc.bocsoft.mobile.bocmobile.buss.system.splash.SplashActivity}"
         drawable="yh_gs" />
+
+
+    <!--    2019.11.25-->
+    <!-- 今日头条 / Toutiao -->
+    <item
+        component="ComponentInfo{com.ss.android.article.news/com.ss.android.article.news.activity.SplashBadgeActivity}"
+        drawable="toutiao" />
+    <!-- 拼多多 / 拼多多 -->
+    <item
+        component="ComponentInfo{com.xunmeng.pinduoduo/com.xunmeng.pinduoduo.ui.activity.MainFrameActivity}"
+        drawable="pdd" />
+    <!-- 一加社区 / 一加社区 -->
+    <item
+        component="ComponentInfo{com.oneplus.bbs/com.oneplus.bbs.ui.activity.PreStartActivity}"
+        drawable="opbbs" />
+
+    <!-- 存储空间清理 / 存储空间清理 -->
+    <item
+        component="ComponentInfo{com.ktls.fileinfo/com.ktls.fileinfo.MainSDClear}"
+        drawable="sdclear" />
+    <!-- 爱奇艺 / 爱奇艺 -->
+    <item
+        component="ComponentInfo{com.qiyi.video/com.qiyi.video.WelcomeActivity}"
+        drawable="iqiyi" />
+    <!-- VLC / VLC -->
+    <item
+        component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.StartActivity}"
+        drawable="vlc" />
+    <!-- 钱迹 / 钱迹 -->
+    <item
+        component="ComponentInfo{com.mutangtech.qianji/com.mutangtech.qianji.ui.main.MainActivity}"
+        drawable="qj" />
+    <!-- QQ邮箱 / QQ邮箱 -->
+    <item
+        component="ComponentInfo{com.tencent.androidqqmail/com.tencent.qqmail.launcher.desktop.LauncherActivity}"
+        drawable="qqmail" />
+    <!-- 万能钥匙 / WiFi Master Key -->
+    <item
+        component="ComponentInfo{com.qy.wifi/com.lantern.launcher.ui.MainActivity}"
+        drawable="wifi" />
+    <!-- 菜鸟裹裹 / null -->
+    <item
+        component="ComponentInfo{com.cainiao.wireless/com.cainiao.wireless.homepage.view.activity.WelcomeActivity}"
+        drawable="cainiao" />
+
+
 </resources>

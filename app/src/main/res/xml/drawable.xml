@@ -90,4 +90,16 @@
     <item drawable="dianping" />
     <item drawable="yh_zg" />
     <item drawable="yh_gs" />
+
+<!--    2019.11.25-->
+    <item drawable="toutiao" />
+    <item drawable="pdd" />
+    <item drawable="opbbs" />
+    <item drawable="sdclear" />
+    <item drawable="iqiyi" />
+    <item drawable="vlc" />
+    <item drawable="qj" />
+    <item drawable="qqmail" />
+    <item drawable="wifi" />
+    <item drawable="cainiao" />
 </resources>
