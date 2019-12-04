@@ -22,6 +22,7 @@
         <!-- A -->
         <item>支付宝</item>
         <item>高德地图</item>
+        <item>阿里巴巴</item>
         <!-- B -->
         <item>哔哩哔哩</item>
         <item>百度地图</item>
@@ -35,16 +36,21 @@
         <item>Chrome</item>
         <item>360相机</item>
         <item>菜鸟裹裹</item>
+        <item>联系人</item>
+        <item>中国电信</item>
         <!-- D -->
         <item>抖音</item>
+        <item>斗鱼</item>
         <!-- E -->
         <item>饿了么</item>
         <!-- F -->
         <item>文件管理器</item>
+        <item>飞猪</item>
         <!-- G -->
         <item>图库</item>
         <!-- H -->
         <item>和平精英</item>
+        <item>虎牙</item>
         <!-- I -->
         <item>爱奇艺</item>
         <!-- J -->
@@ -52,10 +58,12 @@
         <item>交管12123</item>
         <!-- K -->
         <item>Keep</item>
+        <item>酷我音乐</item>
         <!-- L -->
         <!-- M -->
         <item>信息</item>
         <item>商店</item>
+        <item>美团</item>
         <!-- N -->
         <item>网易云音乐</item>
         <item>便签</item>
@@ -97,14 +105,17 @@
         <item>微博</item>
         <item>微云</item>
         <item>WIFI万能钥匙</item>
+        <item>王者荣耀</item>
         <!-- X -->
         <item>迅雷</item>
         <item>下厨房</item>
         <!-- Y -->
         <item>中国工商银行</item>
         <item>中国银行</item>
+        <item>应用宝</item>
         <!-- Z -->
         <item>知乎</item>
+        <item>中国移动</item>
     </string-array>
 
 </resources>

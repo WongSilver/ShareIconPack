@@ -91,7 +91,7 @@
     <item drawable="yh_zg" />
     <item drawable="yh_gs" />
 
-<!--    2019.11.25-->
+    <!--    2019.11.25-->
     <item drawable="toutiao" />
     <item drawable="pdd" />
     <item drawable="opbbs" />
@@ -102,4 +102,20 @@
     <item drawable="qqmail" />
     <item drawable="wifi" />
     <item drawable="cainiao" />
+
+    <!--    2019.11.27-->
+    <item drawable="contacts" />
+    <item drawable="wzry" />
+    <item drawable="douyu" />
+    <item drawable="huya" />
+    <item drawable="meituan" />
+    <item drawable="ct_client" />
+    <item drawable="fz" />
+
+
+    <!--    2019.12.04-->
+    <item drawable="yyb" />
+    <item drawable="kw" />
+    <item drawable="zgyd" />
+    <item drawable="alibaba" />
 </resources>

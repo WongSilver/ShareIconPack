@@ -22,6 +22,7 @@
         <!-- A -->
         <item>alipay</item>
         <item>amap</item>
+        <item>alibab</item>
         <!-- B -->
         <item>bilibili</item>
         <item>baidumap</item>
@@ -35,16 +36,21 @@
         <item>chrome</item>
         <item>camera_360</item>
         <item>cainiao</item>
+        <item>contacts</item>
+        <item>ct_client</item>
         <!-- D -->
         <item>douyin</item>
+        <item>douyu</item>
         <!-- E -->
         <item>me_ele</item>
         <!-- F -->
         <item>filemanager</item>
+        <item>fz</item>
         <!-- G -->
         <item>gallery</item>
         <!-- H -->
         <item>hpjy</item>
+        <item>huya</item>
         <!-- I -->
         <item>iqiyi</item>
         <!-- J -->
@@ -52,10 +58,12 @@
         <item>jg12123</item>
         <!-- K -->
         <item>keep</item>
+        <item>kw</item>
         <!-- L -->
         <!-- M -->
         <item>messages</item>
         <item>market</item>
+        <item>meituan</item>
         <!-- N -->
         <item>neteasemusic</item>
         <item>notes</item>
@@ -98,14 +106,17 @@
         <item>weibo</item>
         <item>weiyun</item>
         <item>wifi</item>
+        <item>wzry</item>
         <!-- X -->
         <item>xunlei</item>
         <item>xcf</item>
         <!-- Y -->
         <item>yh_gs</item>
         <item>yh_zg</item>
+        <item>yyb</item>
         <!-- Z -->
         <item>zhihu</item>
+        <item>zgyd</item>
     </string-array>
 
     <!-- Corresponding app name list of all icons in /res/drawable-nodpi/ -->
@@ -114,6 +125,7 @@
         <!-- A -->
         <item>Alipay</item>
         <item>Amap</item>
+        <item>Alibaba</item>
         <!-- B -->
         <item>Bilibili</item>
         <item>BaiduMap</item>
@@ -127,16 +139,21 @@
         <item>Chrome</item>
         <item>360相机</item>
         <item>菜鸟裹裹</item>
+        <item>Contacts</item>
+        <item>中国电信</item>
         <!-- D -->
         <item>DouYin</item>
+        <item>DouYu</item>
         <!-- E -->
         <item>饿了么</item>
         <!-- F -->
         <item>FileManager</item>
+        <item>飞猪</item>
         <!-- G -->
         <item>Gallery</item>
         <!-- H -->
         <item>和平精英</item>
+        <item>虎牙</item>
         <!-- I -->
         <item>爱奇艺</item>
         <!-- J -->
@@ -144,10 +161,12 @@
         <item>交管12123</item>
         <!-- K -->
         <item>Keep</item>
+        <item>酷我音乐</item>
         <!-- L -->
         <!-- M -->
         <item>Messages</item>
         <item>Market</item>
+        <item>美团</item>
         <!-- N -->
         <item>NeteaseMusic</item>
         <item>Notes</item>
@@ -189,14 +208,17 @@
         <item>WeiBo</item>
         <item>WeiYun</item>
         <item>WIFI Key</item>
+        <item>王者荣耀</item>
         <!-- X -->
         <item>迅雷</item>
         <item>下厨房</item>
         <!-- Y -->
         <item>中国工商银行</item>
         <item>中国银行</item>
+        <item>应用宝</item>
         <!-- Z -->
         <item>ZhiHu</item>
+        <item>中国移动</item>
     </string-array>
 
     <!-- Latest icons (Make sure it's from the "icons" array) -->

@@ -197,9 +197,12 @@
     <item
         component="ComponentInfo{com.taobao.taobao/com.taobao.tao.welcome.Welcome}"
         drawable="taobao" />
-    <!-- 计算器 / Calculator -->
+    <!-- 计算器 / oneplus/vivo -->
     <item
         component="ComponentInfo{com.oneplus.calculator/com.oneplus.calculator.Calculator}"
+        drawable="calculator" />
+    <item
+        component="ComponentInfo{com.android.bbkcalculator/com.android.bbkcalculator.Calculator}"
         drawable="calculator" />
 
     <!-- 微信 / WeChat -->
@@ -212,17 +215,24 @@
         drawable="amap" />
 
     <!-- 文件管理 / File Manager -->
-    <!-- 一加 / 华为 -->
+    <!-- oneplus / 华为 / vivo -->
     <item
         component="ComponentInfo{com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity}"
         drawable="filemanager" />
     <item
         component="ComponentInfo{com.huawei.hidisk/com.huawei.hidisk.filemanager.FileManager}"
         drawable="filemanager" />
+    <item
+        component="ComponentInfo{com.android.filemanager/com.android.filemanager.FileManagerActivity}"
+        drawable="filemanager" />
 
-    <!-- 图库 / Gallery -->
+
+    <!-- 图库 / OnePlus/vivo -->
     <item
         component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.vivo.gallery/com.android.gallery3d.vivo.GalleryTabActivity}"
         drawable="gallery" />
 
     <!-- 信息 / Messages -->
@@ -233,10 +243,15 @@
         component="ComponentInfo{com.oneplus.mms/com.android.mms.ui.ConversationList}"
         drawable="messages" />
 
-    <!-- 电话 / Phone -->
+    <!-- 电话 / phone oneplus/vivo -->
+    <!-- oneplus / vivo-->
     <item
         component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}"
         drawable="phone" />
+    <item
+        component="ComponentInfo{com.android.dialer/com.android.dialer.TwelveKeyDialer}"
+        drawable="phone" />
+
 
     <!-- 抖音短视频 / 抖音短视频 -->
     <item
@@ -248,9 +263,13 @@
         component="ComponentInfo{com.tencent.tmgp.pubgmhd/com.epicgames.ue4.SplashActivity}"
         drawable="hpjy" />
 
-    <!-- 商店 / Market -->
+    <!-- 商店 / market  -->
+    <!-- oneplus / vivo -->
     <item
         component="ComponentInfo{com.oppo.market/com.oppo.market.activity.MainActivity}"
+        drawable="market" />
+    <item
+        component="ComponentInfo{com.bbk.appstore/com.bbk.appstore.ui.AppStore}"
         drawable="market" />
 
     <!-- 翻译 / Translate -->
@@ -264,8 +283,12 @@
         drawable="cardpackage" />
 
     <!-- 相机 / Camera -->
+    <!-- oneplus / vivo -->
     <item
         component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}"
+        drawable="camera" />
+    <item
+        component="ComponentInfo{com.android.camera/com.android.camera.CameraActivity}"
         drawable="camera" />
 
     <!-- 设置 / Settings -->
@@ -292,6 +315,10 @@
     <item
         component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.MainActivityV2}"
         drawable="bilibili" />
+    <item
+        component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.ui.splash.SplashActivity}"
+        drawable="bilibili" />
+
 
     <!-- SSRR / SSRR -->
     <item
@@ -466,5 +493,59 @@
         component="ComponentInfo{com.cainiao.wireless/com.cainiao.wireless.homepage.view.activity.WelcomeActivity}"
         drawable="cainiao" />
 
+    <!-- 2019.11.27 -->
+    <!-- 联系人 / Contacts -->
+    <item
+        component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
+        drawable="contacts" />
+    <!-- 通讯录 / Contacts -->
+    <item
+        component="ComponentInfo{com.android.contacts/com.oneplus.contacts.activities.OPPeopleActivity}"
+        drawable="contacts" />
 
+    <!-- 王者荣耀 / 王者荣耀 -->
+    <item
+        component="ComponentInfo{com.tencent.tmgp.sgame/com.tencent.tmgp.sgame.SGameActivity}"
+        drawable="wzry" />
+    <!-- 斗鱼直播 / 斗鱼直播 -->
+    <item
+        component="ComponentInfo{air.tv.douyu.android/tv.douyu.view.activity.launcher.DYSplashLauncherActivity}"
+        drawable="douyu" />
+    <!-- 虎牙直播 / 虎牙直播 -->
+    <item
+        component="ComponentInfo{com.duowan.kiwi/com.duowan.kiwi.simpleactivity.SplashActivity}"
+        drawable="huya" />
+    <!--    &lt;!&ndash; 美团 / Meituan &ndash;&gt;-->
+    <item
+        component="ComponentInfo{com.sankuai.meituan/com.meituan.android.pt.homepage.activity.Welcome}"
+        drawable="meituan" />
+    <!-- 电信营业厅 / Ct Client -->
+    <item
+        component="ComponentInfo{com.ct.client/com.ct.client.SplashActivity}"
+        drawable="ct_client" />
+    <!-- 飞猪 / 飞猪 -->
+    <item
+        component="ComponentInfo{com.taobao.trip/com.alipay.mobile.quinox.LauncherActivity}"
+        drawable="fz" />
+
+    <!--    2019.12.04-->
+    <!-- 应用宝 / 应用宝 -->
+    <item
+        component="ComponentInfo{com.tencent.android.qqdownloader/com.tencent.pangu.link.SplashActivity}"
+        drawable="yyb" />
+
+    <!-- 酷我音乐 / 酷我音乐 -->
+    <item
+        component="ComponentInfo{cn.kuwo.kwmusiccar/cn.kuwo.kwmusiccar.WelcomeActivity}"
+        drawable="kw" />
+
+    <!-- 广东移动 / 广东移动 -->
+    <item
+        component="ComponentInfo{com.kingpoint.gmcchh/com.kingpoint.gmcchh.newui.main.skeleton.view.SkeletonActivity}"
+        drawable="zgyd" />
+
+    <!-- 阿里巴巴 / 阿里巴巴 -->
+    <item
+        component="ComponentInfo{com.alibaba.wireless/com.alibaba.wireless.launch.LauncherActivity}"
+        drawable="alibaba" />
 </resources>
